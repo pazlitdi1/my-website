@@ -1,0 +1,9 @@
+nav_link {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav_link:hover {
+     color: #1da0f2;
+}
